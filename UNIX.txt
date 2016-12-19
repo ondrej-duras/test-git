@@ -1,12 +1,31 @@
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-Tak tento subor je pre UNIX CR\LF
-
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).
+This firl is for any Unix (uses LF line ends).

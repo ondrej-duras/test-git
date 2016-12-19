@@ -1,12 +1,31 @@
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-Tak tento subor je pre DOS CR\LF
-
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
+This file is for DOS/Windows (uses CR-LF line ends).
