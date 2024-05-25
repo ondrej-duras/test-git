@@ -1,0 +1,58 @@
+mingw32/mingw-w64-i686-cmake 3.25.1-2
+    A cross-platform open-source make system (mingw-w64)
+mingw32/mingw-w64-i686-cmake-doc-qt 3.25.1-1
+    CMake documentation in Qt Help format
+mingw32/mingw-w64-i686-cninja 3.7.8-1
+    cninja, an opinionated cmake config manager
+mingw32/mingw-w64-i686-extra-cmake-modules 5.101.0-1 (mingw-w64-i686-kf5)
+    Extra CMake modules (mingw-w64)
+mingw32/mingw-w64-i686-python-sphinxcontrib-moderncmakedomain 3.25.0-1
+    Sphinx Domain for Modern CMake (mingw-w64)
+mingw64/mingw-w64-x86_64-cmake 3.25.1-2
+    A cross-platform open-source make system (mingw-w64)
+mingw64/mingw-w64-x86_64-cmake-doc-qt 3.25.1-1
+    CMake documentation in Qt Help format
+mingw64/mingw-w64-x86_64-cninja 3.7.8-1
+    cninja, an opinionated cmake config manager
+mingw64/mingw-w64-x86_64-extra-cmake-modules 5.101.0-1 (mingw-w64-x86_64-kf5)
+    Extra CMake modules (mingw-w64)
+mingw64/mingw-w64-x86_64-python-sphinxcontrib-moderncmakedomain 3.25.0-1
+    Sphinx Domain for Modern CMake (mingw-w64)
+ucrt64/mingw-w64-ucrt-x86_64-cmake 3.25.1-2
+    A cross-platform open-source make system (mingw-w64)
+ucrt64/mingw-w64-ucrt-x86_64-cmake-doc-qt 3.25.1-1
+    CMake documentation in Qt Help format
+ucrt64/mingw-w64-ucrt-x86_64-cninja 3.7.8-1
+    cninja, an opinionated cmake config manager
+ucrt64/mingw-w64-ucrt-x86_64-extra-cmake-modules 5.101.0-1 (mingw-w64-ucrt-x86_64-kf5)
+    Extra CMake modules (mingw-w64)
+ucrt64/mingw-w64-ucrt-x86_64-python-sphinxcontrib-moderncmakedomain 3.25.0-1
+    Sphinx Domain for Modern CMake (mingw-w64)
+clang32/mingw-w64-clang-i686-cmake 3.25.1-2
+    A cross-platform open-source make system (mingw-w64)
+clang32/mingw-w64-clang-i686-cmake-doc-qt 3.25.1-1
+    CMake documentation in Qt Help format
+clang32/mingw-w64-clang-i686-cninja 3.7.8-1
+    cninja, an opinionated cmake config manager
+clang32/mingw-w64-clang-i686-extra-cmake-modules 5.101.0-1 (mingw-w64-clang-i686-kf5)
+    Extra CMake modules (mingw-w64)
+clang32/mingw-w64-clang-i686-python-sphinxcontrib-moderncmakedomain 3.25.0-1
+    Sphinx Domain for Modern CMake (mingw-w64)
+clang64/mingw-w64-clang-x86_64-cmake 3.25.1-2
+    A cross-platform open-source make system (mingw-w64)
+clang64/mingw-w64-clang-x86_64-cmake-doc-qt 3.25.1-1
+    CMake documentation in Qt Help format
+clang64/mingw-w64-clang-x86_64-cninja 3.7.8-1
+    cninja, an opinionated cmake config manager
+clang64/mingw-w64-clang-x86_64-extra-cmake-modules 5.101.0-1 (mingw-w64-clang-x86_64-kf5)
+    Extra CMake modules (mingw-w64)
+clang64/mingw-w64-clang-x86_64-python-sphinxcontrib-moderncmakedomain 3.25.0-1
+    Sphinx Domain for Modern CMake (mingw-w64)
+msys/cmake 3.25.1-1
+    A cross-platform open-source make system
+msys/cmake-emacs 3.25.1-1
+    A cross-platform open-source make system (Emacs mode)
+msys/cmake-vim 3.25.1-1
+    A cross-platform open-source make system (vim mode)
+msys/icmake 9.03.01-1
+    A program maintenance (make) utility using a C-like grammar
